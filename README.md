@@ -1,6 +1,6 @@
 # 🐍 Unit 2 Assignment 🐍
-* PyBank 🏦
-* PyRamen 🍜
+* [PyBank 🏦](https://github.com/jdfwsp/python-homework/tree/main/PyBank/main.ipynb)
+* [PyRamen 🍜](https://github.com/jdfwsp/python-homework/blob/main/PyRamen/main.ipynb)
 
 ## Depencies Used
 * Path from pathlib
